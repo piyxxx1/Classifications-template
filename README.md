@@ -1,1 +1,1 @@
-# Code template for machine learning
+# Code template for Machine learning
